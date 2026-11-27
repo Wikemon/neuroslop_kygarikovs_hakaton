@@ -1,0 +1,9 @@
+# Use Python 3.14 for the full notebook environment, including CatBoost.
+catboost==1.2.10
+ipykernel==7.4.0
+ipython==9.18.0
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+sentence-transformers==6.3.0
